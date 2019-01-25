@@ -1,5 +1,6 @@
 import System.Environment
 import System.IO (stdout,stderr,hPutStr,hPutStrLn)
+import Data.Bits
 
 --
 -- Simpleton Regular Expressions in Haskell (Slow!)
